@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**gustavo84/gustavo84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+https://www.linkedin.com/in/gustavo-castro-diez-a5504051/
+
+- 🔭 I’m currently working on Kubernetes, devops, developing software, springboot, angular, react, jenkins, shell, architecture, tracing
+- 🌱 I’m currently learning kubernetes and 
+- 📫 How to reach me: gustavo.castro@hotmail.es
+
+
+
+
+I am graduate in Computer Science and Engineering by the University Of Deusto at 2008. 
+My main experience is on java and springboot development and maintenance, but also I have experience on devops in different clouds like azure, openshift, amazon ws.
