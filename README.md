@@ -6,7 +6,8 @@
 https://www.linkedin.com/in/gustavo-castro-diez-a5504051/
 
 - 🔭 I’m currently working on Kubernetes, devops, developing software, springboot, angular, react, jenkins, shell, architecture, tracing
-- 🌱 I’m currently learning kubernetes and 
+- 🌱 I’m currently learning kubernetes and
+- Books https://es.scribd.com/doc/262264359/Ingenieria-Civil-pdf
 - 📫 How to reach me: gustavo.castro@hotmail.es
 
 
